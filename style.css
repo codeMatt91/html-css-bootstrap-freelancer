@@ -23,7 +23,7 @@ header [class^="col"] {
    height: 500px;
    background-color: #19B491;
 }
-.img {
+.jumbotron .img {
    margin: 50px 0 20px;
    height: 150px;
    width: 150px;

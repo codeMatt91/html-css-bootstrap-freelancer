@@ -1,0 +1,20 @@
+body {
+   color: white;
+}
+
+.conteiner {
+  border: 1px solid white;
+  height: 100%;
+}
+
+header {
+  background-color: #273646;
+  height: 100px;
+}
+.row {
+   height: 100%;
+}
+header .col {
+   border: 1px solid white;
+   height: 40px;
+}

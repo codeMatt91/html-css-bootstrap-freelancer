@@ -42,11 +42,31 @@ main .title {
 }
 
 main [class^="col"] {
-   height: 300px;
+   height: 250px;
 }
 
 .about {
    margin: 20px 0;
    background-color: #19B491;
 }
+.download {
+   margin-top: 20px;
+   height: 50px;
+}
 
+.contact-col [class^="col"] {
+   border: 1px solid black;
+   height: 50px;
+}
+
+.contact {
+   color: black;
+}
+
+footer {
+   background-color: #334A62;
+}
+
+footer [class^="col"] {
+   height: 100px;
+}

@@ -14,7 +14,7 @@ header {
 header .row {
    height: 100px;
 }
-header [class^="col"] {
+* [class^="col"] {
    border: 1px solid white;
    height: 40px;
 }
@@ -44,3 +44,9 @@ main .title {
 main [class^="col"] {
    height: 300px;
 }
+
+.about {
+   margin: 20px 0;
+   background-color: #19B491;
+}
+

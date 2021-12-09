@@ -2,19 +2,35 @@ body {
    color: white;
 }
 
-.conteiner {
+header .conteiner {
   border: 1px solid white;
-  height: 100%;
+  height: 100px;
 }
 
 header {
   background-color: #273646;
   height: 100px;
 }
-.row {
-   height: 100%;
+header .row {
+   height: 100px;
 }
-header .col {
+header [class^="col"] {
    border: 1px solid white;
    height: 40px;
+}
+
+.jumbotron {
+   height: 500px;
+   background-color: #19B491;
+}
+.img {
+   margin: 50px 0 20px;
+   height: 150px;
+   width: 150px;
+   border: 1px solid
+}
+.title {
+   border: 1px solid;
+   height: 200px;
+   width: 400px;
 }

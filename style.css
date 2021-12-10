@@ -29,9 +29,6 @@ header {
    height: 50px;
 }
 
-footer {
-   background-color: #334A62;
-}
 
 .contact button {
    background-color: #19B491;
@@ -39,3 +36,10 @@ footer {
 .contact .form-control {
    border-width: 0 0 1px 0;
 } 
+
+footer {
+   background-color: #334A62;
+}
+.start-b {
+   color:  #19B491;
+}

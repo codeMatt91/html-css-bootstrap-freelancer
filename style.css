@@ -1,9 +1,12 @@
 
 
 
-.navbar {
+header {
   background-color: #273646;
-   color: white;
+}
+.navbar-light .navbar-toggler {
+   color: rgb(255, 253, 253);
+   border-color: rgb(255,255,255)
 }
 
 .jumbotron {

@@ -6,6 +6,8 @@ header {
    border-color: rgb(255,255,255)
 }
 
+/* ! JUMBOTRON  */
+
 .jumbotron {
    background-color: #19B491;
 }
@@ -14,6 +16,7 @@ header {
    width: 350px;
 }
 
+/* ! ABOUT  */
 
 .about {
    margin: 20px 0;
@@ -23,13 +26,20 @@ header {
    margin-top: 20px;
    height: 50px;
 }
+.star {
+   height: 40px;
+}
+.bar {
+   height: 3px;
+   width: 50px;
+   background-color: white;
+}
 
+/* ! CONTACT  */
 .contact-col [class^="col"] {
    border: 1px solid black;
    height: 50px;
 }
-
-
 .contact button {
    background-color: #19B491;
 }
@@ -37,6 +47,7 @@ header {
    border-width: 0 0 1px 0;
 } 
 
+/* ! FOOTER  */
 footer {
    background-color: #334A62;
 }

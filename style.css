@@ -1,6 +1,3 @@
-body {
-   color: white;
-}
 
 header .conteiner {
   border: 1px solid white;
@@ -34,15 +31,6 @@ header [class^="col"] {
    width: 400px;
 }
 
-main .title {
-   margin: 20px 0 20px;
-   height: 80px;
-   border: 1px solid black
-}
-
-main [class^="col"] {
-   height: 250px;
-}
 
 .about {
    margin: 20px 0;
@@ -58,14 +46,6 @@ main [class^="col"] {
    height: 50px;
 }
 
-.contact {
-   color: black;
-}
-
 footer {
    background-color: #334A62;
-}
-
-footer [class^="col"] {
-   height: 100px;
 }

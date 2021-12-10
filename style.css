@@ -1,19 +1,9 @@
 
-header .conteiner {
-  border: 1px solid white;
-  height: 100px;
-}
 
-header {
+
+.navbar {
   background-color: #273646;
-  height: 100px;
-}
-header .row {
-   height: 100px;
-}
-header [class^="col"] {
-   border: 1px solid white;
-   height: 40px;
+   color: white;
 }
 
 .jumbotron {

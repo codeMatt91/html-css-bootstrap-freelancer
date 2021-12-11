@@ -19,7 +19,6 @@ header {
 /* ! ABOUT  */
 
 .about {
-   margin: 20px 0;
    background-color: #19B491;
 }
 .download {
@@ -33,6 +32,9 @@ header {
    height: 3px;
    width: 50px;
    background-color: white;
+}
+.btn-download {
+   border: 1px solid white;
 }
 
 /* ! CONTACT  */
